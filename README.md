@@ -12,11 +12,11 @@ The points to print from are seleced by a *double click* and stored in a text fi
 
 `python coord.py`
 
-![](images/git1.png "Selecting Points")
+![](images/git1.PNG "Selecting Points")
 
 ## Output
 A sample output is shown in a new window and the user can press *Esc* to stop the process or *Enter* to continue the process of generation after which the certificates get stored in the outputs folder. The code for this process is in certificate.py which is run using the following:-
 
 `python certificate.py`
 
-![](images/git2.png "Sample Output")
+![](images/git2.PNG "Sample Output")
