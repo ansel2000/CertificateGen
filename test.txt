@@ -4,3 +4,5 @@
 2              John Doe      Fail
 3          James Arthur      Pass
 4             Mary Jane      Pass
+5            Marco Reus      Pass
+6          Jadon Sancho      Fail
